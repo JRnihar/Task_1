@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "1",
+        "UnitPrice":10 ,
+        "Quantity": 10,
+        "Description": "Tea"
+    },
+    {
+        "_id": "2",
+        "UnitPrice": 50,
+        "Quantity": 12,    
+        "Description": "Coffe"
+    },
+    {
+        "_id": "3",
+        "UnitPrice": 70,
+        "Quantity": 3,
+        "Description": "Juice"
+    }
+]
